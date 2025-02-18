@@ -21,7 +21,8 @@ I believe in **learning by doing** and continuously expanding my skill set. Righ
 
 ## 🤝 Let’s Collaborate
 I love working on **real-world projects** and learning from others. If you have an interesting idea related to AI, data analysis, tools for improved learning, or automation, let’s connect!
-**Current Projects:**
+
+💡 **My Current Projects:**
 - **Pom³**: 3D-Printed Mini Pomodoro Cube with OLED display
 - **Rabbit Focus**: Create index cards with personal learning paths from PDF documents
 
